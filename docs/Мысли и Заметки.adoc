@@ -13,6 +13,9 @@
 * *Easy* | 389. Find the Difference
 * *Easy* | 28. Find the Index of the First Occurrence in a String
 * *Easy* | 242. Valid Anagram
+* *Easy* | 459. Repeated Substring Pattern
+
+> В 459 интересная идея с определением является ли строка собранной из копий самой себя.
 
 *[yellow-background]#27 Августа#*
 
