@@ -1,8 +1,9 @@
-package ru.code.workspace.base;
+package ru.code.workspace.problems.base.string;
 
 import lombok.val;
 import org.junit.jupiter.api.Test;
-import ru.code.workspace.ProblemFileTester;
+import ru.code.workspace.problems.ProblemFileTester;
+import ru.code.workspace.problems.others.base.string.StringLengthProblem;
 
 public class StringLengthTest {
 

@@ -1,4 +1,4 @@
-package ru.code.workspace;
+package ru.code.workspace.problems;
 
 public interface Problem {
 

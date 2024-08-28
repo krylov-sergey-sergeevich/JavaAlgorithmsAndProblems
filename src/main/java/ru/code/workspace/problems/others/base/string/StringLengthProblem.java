@@ -1,6 +1,6 @@
-package ru.code.workspace.base;
+package ru.code.workspace.problems.others.base.string;
 
-import ru.code.workspace.Problem;
+import ru.code.workspace.problems.Problem;
 
 /**
  * Дана строка символов.
