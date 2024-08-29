@@ -8,6 +8,11 @@
 
 === Август
 
+*[yellow-background]#29 Августа#*
+
+* *Easy* | 283. Move Zeroes
+* Просмотрел видео про закраску рекурсивную области, надо искать задачу и пробовать
+
 *[yellow-background]#28 Августа#*
 
 * *Easy* | 389. Find the Difference
