@@ -13,6 +13,7 @@
 *[yellow-background]#1 Сентября#*
 
 * *Easy* | 2022. Convert 1D Array Into 2D Array
+* *Easy* | 1822. Sign of the Product of an Array
 
 *[yellow-background]#29 Августа#*
 
