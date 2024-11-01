@@ -6,6 +6,12 @@
 
 == 2024
 
+=== Ноябрь
+
+*[yellow-background]#1 Ноября#*
+
+* *Easy* | 1957. Delete Characters to Make Fancy String
+
 === Сентябрь
 
 === Август
@@ -14,6 +20,8 @@
 
 * *Easy* | 2022. Convert 1D Array Into 2D Array
 * *Easy* | 1822. Sign of the Product of an Array
+* *Easy* | 1502. Can Make Arithmetic Progression From Sequence
+* *Easy* | 896. Monotonic Array
 
 *[yellow-background]#29 Августа#*
 
