@@ -2,24 +2,23 @@
 :toc-title: Оглавление
 :toclevels: 3
 
-= Мысли и Заметки
+== Дневник решения задач
 
-== 2024
+=== 2024
 
-=== Ноябрь
+==== Ноябрь
 
 *[yellow-background]#2 Ноября#*
 
 * *Easy* | 2490. Circular Sentence
+* *Easy* | 13. Roman to Integer
 
 
 *[yellow-background]#1 Ноября#*
 
 * *Easy* | 1957. Delete Characters to Make Fancy String
 
-=== Сентябрь
-
-=== Август
+==== Август
 
 *[yellow-background]#1 Сентября#*
 
