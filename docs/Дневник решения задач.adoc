@@ -12,6 +12,9 @@
 
 * *Easy* | 2490. Circular Sentence
 * *Easy* | 13. Roman to Integer
+* *Easy* | 58. Length of Last Word
+* *Easy* | 709. To Lower Case
+* *Easy* | 682. Baseball Game
 
 
 *[yellow-background]#1 Ноября#*
