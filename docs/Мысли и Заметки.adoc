@@ -8,6 +8,11 @@
 
 === Ноябрь
 
+*[yellow-background]#2 Ноября#*
+
+* *Easy* | 2490. Circular Sentence
+
+
 *[yellow-background]#1 Ноября#*
 
 * *Easy* | 1957. Delete Characters to Make Fancy String
