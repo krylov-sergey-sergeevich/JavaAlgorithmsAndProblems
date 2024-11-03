@@ -8,6 +8,15 @@
 
 ==== Ноябрь
 
+*[yellow-background]#3 Ноября#*
+
+* *Easy* | 796. Rotate String
+* *Easy* | 1275. Find Winner on a Tic Tac Toe Game
+* *Medium* | 1041. Robot Bounded In Circle
+* *Easy* | 1672. Richest Customer Wealth
+* *Easy* | 1572. Matrix Diagonal Sum
+
+
 *[yellow-background]#2 Ноября#*
 
 * *Easy* | 2490. Circular Sentence
