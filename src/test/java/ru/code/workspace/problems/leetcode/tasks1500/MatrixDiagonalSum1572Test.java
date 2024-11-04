@@ -1,7 +1,6 @@
 package ru.code.workspace.problems.leetcode.tasks1500;
 
 import org.junit.jupiter.api.Test;
-import ru.code.workspace.problems.leetcode.tasks1600.RichestCustomerWealth1672;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
